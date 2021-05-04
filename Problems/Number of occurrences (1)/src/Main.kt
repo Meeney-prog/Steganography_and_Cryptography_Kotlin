@@ -1,0 +1,1 @@
+fun main() = print(readLine()!!.split(readLine()!!).size - 1)

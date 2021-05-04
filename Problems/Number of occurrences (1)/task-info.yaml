@@ -1,0 +1,13 @@
+type: code
+custom_name: Number of occurrences
+files:
+- name: src/Main.kt
+  visible: true
+  text: "fun main() {\n    // write your code here    \n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9036#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 04 May 2021 07:34:11 UTC
+record: -1

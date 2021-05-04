@@ -1,0 +1,23 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    // TODO: provide three functions here
+
+    fun generate(functionName: String): (Int) -> Int {
+        // TODO: provide implementation here
+    }
+  learner_created: false
+- name: src/numberCounter.kt
+  visible: true
+  learner_created: true
+- name: src/FileTask.kt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/6000#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 02 May 2021 20:15:30 UTC
+record: -1

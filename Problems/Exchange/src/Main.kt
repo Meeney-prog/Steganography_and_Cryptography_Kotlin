@@ -1,0 +1,1 @@
+fun main() = readLine()!!.let { println("${it.last()}${it.substring(1, it.length - 1)}${it.first()}") }

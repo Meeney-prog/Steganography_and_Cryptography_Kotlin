@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Problems/Function generator/out/
+/Problems/Function generator/out/production/classes/
+/Problems/Number of occurrences (1)/out/
+/Problems/Number of occurrences (1)/out/production/classes/
+/Steganography and Cryptography/task/build/
+/Steganography and Cryptography/task/out/
+/Steganography and Cryptography/task/out/production/classes/
